@@ -1,6 +1,12 @@
 #the_pi, h1 {
     font-family: "Roboto";
 }
+#the_pi {
+    background-image: linear-gradient(to right, #61BB46, #FDB827, #E03A3E, #963D97, #009DDC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 html {
     background-color: rgb(212, 212, 212);
 }
